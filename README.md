@@ -4,6 +4,7 @@ This project tells the user the instrument family of an instrument in an image u
 
 ## The Algorithm
 
+This project was developed using Jetson Nano.
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 
 ## Running this project
