@@ -24,5 +24,5 @@ This project was developed using Jetson Nano. It is a retrained resnet18 model w
 
 ## Demo
 
-[View a video explanation here](video link)
+[project demo](https://youtu.be/IoiPp3zwE-4)
 
