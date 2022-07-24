@@ -2,14 +2,14 @@
 
 This project tells the user the instrument family of an instrument in an image using image classification.
 
-![example](https://user-images.githubusercontent.com/107499553/180625956-9a780122-a78e-4058-a1b3-07d0d18eb674.jpg)
+![Example](https://user-images.githubusercontent.com/107499553/180625956-9a780122-a78e-4058-a1b3-07d0d18eb674.jpg)
 
 
 ## The Algorithm
 
 This project was developed using Jetson Nano. It is a retrained resnet18 model whose dataset consists of many instruments, each labelled by their instrument family's name. When it is run, it uses the imagenet.py program with the model to determine the instrument family of an inputted image.
 
-![dataset](https://user-images.githubusercontent.com/107499553/180626075-47a7b4a8-522b-473c-9dab-530ece8a446c.jpg)
+![Dataset](https://user-images.githubusercontent.com/107499553/180626075-47a7b4a8-522b-473c-9dab-530ece8a446c.jpg)
 
 
 ## Running this project
@@ -24,5 +24,5 @@ This project was developed using Jetson Nano. It is a retrained resnet18 model w
 
 ## Demo
 
-[project demo](https://youtu.be/IoiPp3zwE-4)
+[Project Demo](https://youtu.be/IoiPp3zwE-4)
 
